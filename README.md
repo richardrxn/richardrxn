@@ -2,10 +2,10 @@
 
 Mcgill B.Sc. Software Engineer / Mathematics Minor UnderGrad student, expecting to graduate in May 2024.
 
-Actively looking for summer internship opportunities for summer 2023! 
+Actively looking for full time opportunities for fall 2024! 
 
 ### Interests:
-- Artificial Intelligence, particularly ML/DL
+- Database systems
 - Data Science
 
 ### Hobbies:
