@@ -1,8 +1,8 @@
 ### Richard Rassokhine
 
-Mcgill B.Sc. Software Engineer / Mathematics Minor UnderGrad student, expecting to graduate in May 2024.
+Mcgill B.Sc. Software Engineer / Mathematics Minor UnderGrad 24' Alum.
 
-Actively looking for full time opportunities for fall 2024! 
+Actively looking for employment!
 
 ### Interests:
 - Database systems
